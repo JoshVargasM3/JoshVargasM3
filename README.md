@@ -3,7 +3,7 @@
 # About Me
 <p align="center" dir="auto"> Hello everyone!</p>
 
-<p align="center" dir="auto" >I am José Luis Vargas Ríos, I'm a Biotechnology Engineer, Jr Software Developer and Data Analyst. I'm a versatile individual with experience in collecting, transforming and organizing data for analysis to help make informed decisions, I'm continually learning new programming languages and software development by large companies such as Oracle, IBM and Alura LATAM.</p>
+<p align="center" dir="auto" >I'm José Luis Vargas Ríos, I'm a Biotechnology Engineer, Jr Software Developer and Data Analyst. I'm a versatile individual with experience in collecting, transforming and organizing data for analysis to help make informed decisions, I'm continually learning new programming languages and software development by large companies such as Oracle, IBM and Alura LATAM.</p>
 
 <p align="center" dir="auto">I also have experience in the area of genetic improvement, agricultural biotechnology and in the Pharmaceutical Industry.</p>
 
@@ -43,10 +43,10 @@
 <!--🦶FOOTER--> 
 ## View my Stats
 >This section includes my progress and learnings.
-<p align="center" dir="auto"> <a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center" dir="auto"> <a href="https://github.com/JoshVargasM3/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoshVargasM3&show_icons=true&theme=radical" /> 
 </a></p>
-<p align="center" dir="auto"><a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center" dir="auto"><a href="https://github.com/JoshVargasM3/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshVargasM3&layout=compact&theme=radical" />
 </a></p>
 
