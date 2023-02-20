@@ -3,7 +3,7 @@
 # About Me
 <p align="center" dir="auto"> ¡Hola a todos!</p>
 
-<p align="center" dir="auto" >Soy José Luis Vargas Ríos, soy Ingeniero en Biotecnología, Jr Software Developer y Analista de Datos. Tengo una especialización en Análisis de Datos de Google. Soy un individuo versátil con experiencia en la recopilación, transformación y organización de datos para el análisis para ayudar a tomar decisiones informadas, continuamente estoy aprendiendo nuevos lenguajes de programación y desarrollo de software por parte de grandes empresas como Oracle, IBM y  Alura LATAM.</p>
+<p align="center" dir="auto" >Soy José Luis Vargas Ríos, soy Ingeniero en Biotecnología, Jr Software Developer y Analista de Datos. Soy un individuo versátil con experiencia en la recopilación, transformación y organización de datos para el análisis para ayudar a tomar decisiones informadas, continuamente estoy aprendiendo nuevos lenguajes de programación y desarrollo de software por parte de grandes empresas como Oracle, IBM y  Alura LATAM.</p>
 
 <p align="center" dir="auto">También tengo experiencia en el área de mejoramiento genético, biotecnología agrícola y en la Industria Farmacéutica.</p>
 
