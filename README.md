@@ -1,3 +1,4 @@
+
 # About Me
 ## Descripción
 
@@ -9,7 +10,7 @@
 
 ## Tecnologias utilizadas en mis proyectos
 
-![My Skills](https://skills.thijs.gg/icons?i=js,py,java,r,html,css)
+![My Skills](https://skills.thijs.gg/icons?i=js,py,java,r,html,css,figma,git)(https://skills.thijs.gg)
 
 ## Visualiza mis certificaciones
 
