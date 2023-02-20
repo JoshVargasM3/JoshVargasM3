@@ -24,8 +24,11 @@
 > To test the app click <a href="https://joshvargasm3.github.io/PORTAFOLIO/">Encryption App.</a>
 
 ## Technologies used in my projects
+>These are the technologies and programming languages that I use in my day to day, both for data analysis, machine learning, software design and development, as well as version control of my repositories.
 
-![My Skills](https://skills.thijs.gg/icons?i=js,py,java,r,html,css,figma,git)
+<p align="center" dir="auto">
+<img align="center" src="https://skills.thijs.gg/icons?i=js,py,java,r,html,css,figma,git" />
+</p>
 
 ## View my certifications
 
@@ -43,10 +46,10 @@
 <!--🦶FOOTER--> 
 ## View my Stats
 >This section includes my progress and learnings.
-<p align="center" dir="auto"> <a href="https://github.com/JoshVargasM3/github-readme-stats">
+<p align="center" dir="auto"> <a href="https://github.com/JoshVargasM3/PORTAFOLIO">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoshVargasM3&show_icons=true&theme=radical" /> 
 </a></p>
-<p align="center" dir="auto"><a href="https://github.com/JoshVargasM3/github-readme-stats">
+<p align="center" dir="auto"><a href="https://github.com/JoshVargasM3/PORTAFOLIO">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshVargasM3&layout=compact&theme=radical" />
 </a></p>
 
