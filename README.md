@@ -8,7 +8,7 @@
 > Para probar la aplicación da clic <a href="https://joshvargasm3.github.io/PORTAFOLIO/">App de Encriptación.</a>
 
 ## Tecnologias utilizadas en mis proyectos
-<p align="center" dir="auto"><a[ href="![My Skills](https://skills.thijs.gg/icons?i=js,py,java,r,html,css)](https://skills.thijs.gg)"></a></p>
+![My Skills](https://skills.thijs.gg/icons?i=js,py,java,r,html,css)](https://skills.thijs.gg)
 
 ## Visualiza mis certificaciones
 
