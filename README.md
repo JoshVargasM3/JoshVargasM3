@@ -8,9 +8,9 @@
 > Para probar la aplicación da clic <a href="https://joshvargasm3.github.io/PORTAFOLIO/">App de Encriptación.</a>
 
 ## Tecnologias utilizadas en mis proyectos
-<p align="center" dir="auto">
+
 ![My Skills](https://skills.thijs.gg/icons?i=js,py,java,r,html,css)
-</p>
+
 ## Visualiza mis certificaciones
 
 <p align="center" dir="auto"><a href="https://github.com/JoshVargasM3/PORTAFOLIO/tree/Main/CERTIFICATES/GOOGLE"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngplay.com%2Fwp-content%2Fuploads%2F13%2FGoogle-Logo-PNG-Photo-Image.png&f=1&nofb=1&ipt=b73716ac51c2f5c624febe7afb91d2d841e254432401bd25c8d757e29bfc6e37&ipo=images" width='100px'></a> 
