@@ -2,7 +2,7 @@
 <img src="https://github.com/JoshVargasM3/JoshVargasM3/blob/main/footer.svg" width="100%"></img>
 # Translation to other languages
 - [ESPAÑOL/SPANISH](README.sp.md)
-- 
+
 # About Me
 <p align="center" dir="auto"> Hello everyone!</p>
 
