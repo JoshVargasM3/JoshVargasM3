@@ -1,6 +1,8 @@
 <!--HEADER--> 
 <img src="https://github.com/JoshVargasM3/JoshVargasM3/blob/main/footer.svg" width="100%"></img>
 # Tradução para outros idiomas
+- [ENGLISH](README.md)
+- [ESPAÑOL/SPANISH](README.sp.md)
 - [PORTUGUÊS/PORTUGUESE](README.pr.md)
 
 # Sobre mim
