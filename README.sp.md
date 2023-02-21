@@ -50,7 +50,7 @@
 
 <!--🦶FOOTER--> 
 ## Ve mis Estadisticas
->Esta seccción incluye mis porgresos y aprendizajes en cada lenguaje.
+>Esta seccción incluye mis progresos y aprendizajes en cada lenguaje.
 <p align="center" dir="auto"> <a href="https://github.com/JoshVargasM3/PORTAFOLIO">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoshVargasM3&show_icons=true&theme=radical" /> 
 </a></p>
