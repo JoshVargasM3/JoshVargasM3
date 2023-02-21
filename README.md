@@ -1,7 +1,9 @@
 <!--HEADER--> 
 <img src="https://github.com/JoshVargasM3/JoshVargasM3/blob/main/footer.svg" width="100%"></img>
+# Translation to other languages
+- [ESPAÑOL/SPANISH](README.sp.md)
+- 
 # About Me
-- [ESPAÑOL](README.sp.md)
 <p align="center" dir="auto"> Hello everyone!</p>
 
 <p align="center" dir="auto" >I'm José Luis Vargas Ríos, I'm a Biotechnology Engineer, Jr Software Developer and Data Analyst. I'm a versatile individual with experience in collecting, transforming and organizing data for analysis to help make informed decisions, I'm continually learning new programming languages and software development by large companies such as Oracle, IBM and Alura LATAM.</p>
