@@ -25,8 +25,9 @@
 > Este repositorio incluye un archivo README para dar una idea de mis procesos de aprendizaje y proyectos activos en los que trabajo en mi tiempo libre.
 
 ## Ve mi Portafolio
-> _***Cifrado de texto con JavaScript.***_
-> Para probar la aplicación, haga clic en <a href="https://joshvargasm3.github.io/PORTAFOLIO/">Encryption App.</a>
+> _***Cifrado de texto con JavaScript.***_ Para probar la aplicación, haga clic en <a href="https://joshvargasm3.github.io/PORTAFOLIO/">Encryption App.</a>
+
+> ***Convertidor de monedas con Java.*** Para probar la aplicación, haga clic en <a href="https://github.com/JoshVargasM3/AppConvertidorDivisas">Converter App.</a>
 
 ## Tecnologías utilizadas en mis proyectos
 >Estas son las tecnologías y lenguajes de programación que utilizo en mi día a día, tanto para el análisis de datos, aprendizaje automático, diseño y desarrollo de software, como para el control de versiones de mis repositorios.
