@@ -25,8 +25,9 @@
 > This repository includes a README file to give a glimpse of my learning processes and active projects that I work on in my free time. 
 
 ## View my Portfolio
-> _***Text encrypter with JavaScript.***_
-> To test the app click <a href="https://joshvargasm3.github.io/PORTAFOLIO/">Encryption App.</a>
+> _***Text encrypter with JavaScript.***_ To test the app click <a href="https://joshvargasm3.github.io/PORTAFOLIO/">Encryption App.</a>
+
+> ***Currency converter with Java.*** To test the app click <a href="https://github.com/JoshVargasM3/AppConvertidorDivisas">Converter App.</a>
 
 ## Technologies used in my projects
 >These are the technologies and programming languages that I use in my day to day, both for data analysis, machine learning, software design and development, as well as version control of my repositories.
