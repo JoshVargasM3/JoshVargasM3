@@ -1,5 +1,17 @@
 <!--HEADER--> 
 <img src="https://github.com/JoshVargasM3/JoshVargasM3/blob/main/footer.svg" width="100%"></img>
+
+<h1 align="center" dir="auto" font-size=20%> Visitor Count! 👁️ </h1>
+
+  
+<table align="center">
+  <tr>
+    <td>You are visitor ❤️</td>
+    <td><img src="https://profile-counter.glitch.me/{JoshVargasM3}/count.svg" alt="Contador visitas" /></td>
+  </tr>
+</table>
+
+
 # Translation to other languages
 - [ENGLISH](README.md)
 - [ESPAÑOL/SPANISH](README.sp.md)
