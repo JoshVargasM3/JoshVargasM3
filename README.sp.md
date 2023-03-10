@@ -13,10 +13,16 @@
 
 # Traducción para otros idiomas
 
-<p align="center" font-size= "50px"> 
-  <code> 🇺🇸 🇬🇧 <a href=[ENGLISH](README.md)> ENGLISH </a> </code>
-  <code> 🇲🇽 🇪🇸 <a href=[ESPAÑOL/SPANISH](README.sp.md)> ESPAÑOL/SPANISH </a></code>
-  <code> 🇧🇷 🇵🇹 <a href=[PORTUGUÊS/PORTUGUESE](README.pr.md)> PORTUGUÊS/PORTUGUESE</a></code>
+<p align="left"> 
+  <code> <a href=[ENGLISH](README.md)> 🇺🇸 ENGLISH 🇬🇧  </a> </code>
+  </p>
+  
+<p align="center"> 
+  <code> <a href=[ESPAÑOL/SPANISH](README.sp.md)> 🇲🇽 ESPAÑOL/SPANISH 🇪🇸  </a></code>
+  </p>
+  
+<p align="right">  
+  <code> <a href=[PORTUGUÊS/PORTUGUESE](README.pr.md)> 🇧🇷 PORTUGUÊS/PORTUGUESE 🇵🇹  </a></code>
 </p>
 
 # Acerca de mí
