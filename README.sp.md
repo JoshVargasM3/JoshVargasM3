@@ -12,9 +12,12 @@
 </table>
 
 # Traducción para otros idiomas
-- [ENGLISH](README.md)
-- [ESPAÑOL/SPANISH](README.sp.md)
-- [PORTUGUÊS/PORTUGUESE](README.pr.md)
+
+<p align="center" font-size= "50px"> 
+  <code> 🇺🇸 🇬🇧 <a href=[ENGLISH](README.md)> ENGLISH </a> </code>
+  <code> 🇲🇽 🇪🇸 <a href=[ESPAÑOL/SPANISH](README.sp.md)> ESPAÑOL/SPANISH </a></code>
+  <code> 🇧🇷 🇵🇹 <a href=[PORTUGUÊS/PORTUGUESE](README.pr.md)> PORTUGUÊS/PORTUGUESE</a></code>
+</p>
 
 # Acerca de mí
 <p align="center" dir="auto"> Hola a todos!</p>
