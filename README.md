@@ -50,7 +50,9 @@
 
 > ***Currency converter with Java.*** To test the app click <a href="https://github.com/JoshVargasM3/AppConvertidorDivisas">Converter App.</a>
 
-> ***WebPageDesigne with JavaScript.*** To visit the web page click <a href="https://joshvargasm3.github.io/DisenadoraGraficaWebsite/">Diseñadora Grafica Website.</a> 
+> ***WebPageDesigne with JavaScript.*** To visit the web page click <a href="https://joshvargasm3.github.io/DisenadoraGraficaWebsite/">Diseñadora Grafica Website.</a>
+
+> ***API REST with Java, Spring Boot 3.0.*** To test the app click <a href="https://github.com/JoshVargasM3/foro-alura-challenge ">Foro Alura API REST.</a>
 
 ## Technologies used in my projects
 >These are the technologies and programming languages that I use in my day to day, both for data analysis, machine learning, software design and development, as well as version control of my repositories.
