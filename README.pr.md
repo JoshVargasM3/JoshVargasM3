@@ -50,6 +50,8 @@
 
 > ***WebPageDesigne with JavaScript.*** Para testar o aplicativo clique <a href="https://joshvargasm3.github.io/DisenadoraGraficaWebsite/">Diseñadora Grafica Website.</a> 
 
+> ***API REST with Java, Spring Boot 3.0.*** Para testar o aplicativo clique <a href="https://github.com/JoshVargasM3/foro-alura-challenge ">Foro Alura API REST.</a>
+
 ## Tecnologias utilizadas em meus projetos
 >São as tecnologias e linguagens de programação que utilizo no meu dia a dia, tanto para análise de dados, aprendizado de máquina, design e desenvolvimento de software, quanto para controle de versão dos meus repositórios.
 
