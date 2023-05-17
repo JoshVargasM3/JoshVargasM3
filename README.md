@@ -58,7 +58,7 @@
 >These are the technologies and programming languages that I use in my day to day, both for data analysis, machine learning, software design and development, as well as version control of my repositories.
 
 <p align="center" dir="auto">
-<img align="center" src="https://skills.thijs.gg/icons?i=js,py,java,r,html,css,figma,maven,idea,mysql,git" />
+<img align="center" src="https://skills.thijs.gg/icons?i=js,py,java,r,html,css,figma,maven,idea,mysql,git,github&perline=6" />
 </p>
 
 ## View my certifications
