@@ -49,7 +49,9 @@
 
 > ***Convertidor de monedas con Java.*** Para probar la aplicación, haga clic en <a href="https://github.com/JoshVargasM3/AppConvertidorDivisas">Converter App.</a>
 
-> ***WebPageDesigne with JavaScript.*** TPara visitar la pagina web, haga click en <a href="https://joshvargasm3.github.io/DisenadoraGraficaWebsite/">Diseñadora Grafica Website.</a> 
+> ***WebPageDesigne with JavaScript.*** Para visitar la pagina web, haga click en <a href="https://joshvargasm3.github.io/DisenadoraGraficaWebsite/">Diseñadora Grafica Website.</a>
+
+> ***API REST with Java, Spring Boot 3.0.*** Para probar la aplicacion, da click en <a href="https://github.com/JoshVargasM3/foro-alura-challenge ">Foro Alura API REST.</a>
 
 ## Tecnologías utilizadas en mis proyectos
 >Estas son las tecnologías y lenguajes de programación que utilizo en mi día a día, tanto para el análisis de datos, aprendizaje automático, diseño y desarrollo de software, como para el control de versiones de mis repositorios.
