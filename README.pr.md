@@ -80,10 +80,10 @@
 ## Ver minhas estatísticas
 >Esta seção inclui meu progresso e aprendizados.
 <p align="center" dir="auto"> <a href="https://github.com/JoshVargasM3/PORTAFOLIO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoshVargasM3&show_icons=true&theme=radical&PAT_1" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoshVargasM3&show_icons=true&theme=radical&PAT_2" /> 
 </a></p>
 <p align="center" dir="auto"><a href="https://github.com/JoshVargasM3/PORTAFOLIO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshVargasM3&layout=compact&theme=radical&PAT_1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshVargasM3&layout=compact&theme=radical&PAT_2" />
 </a></p>
 
 <!--HACKER-IMAGES--> 
