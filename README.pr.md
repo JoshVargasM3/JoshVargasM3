@@ -56,7 +56,7 @@
 >São as tecnologias e linguagens de programação que utilizo no meu dia a dia, tanto para análise de dados, aprendizado de máquina, design e desenvolvimento de software, quanto para controle de versão dos meus repositórios.
 
 <p align="center" dir="auto">
-<img align="center" src="https://skills.thijs.gg/icons?i=js,py,java,r,html,css,figma,maven,idea,mysql,git,github&perline=6" />
+<img align="center" src="https://skills.thijs.gg/icons?i=js,py,dart,java,r,html,css,flutter,spring,eclipse,androidstudio,vscode,figma,maven,idea,mysql,git,github&perline=9" />
 </p>
 
 ## Ver minhas certificações
