@@ -50,6 +50,8 @@
 
 > ***Currency converter with Java.*** To test the app click <a href="https://github.com/JoshVargasM3/AppConvertidorDivisas">Converter App.</a>
 
+> ***CHALLENGE SINTELTi with Python*** To test the app click <a href="https://github.com/JoshVargasM3/Coding_Challenge_SintelTi/tree/main ">PALINDROME DETECTOR.</a>
+
 > ***WebPageDesigne with JavaScript.*** To visit the web page click <a href="https://joshvargasm3.github.io/DisenadoraGraficaWebsite/">Diseñadora Grafica Website.</a>
 
 > ***API REST with Java, Spring Boot 3.0.*** To test the app click <a href="https://github.com/JoshVargasM3/foro-alura-challenge ">Foro Alura API REST.</a>
