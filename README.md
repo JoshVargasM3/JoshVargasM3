@@ -33,7 +33,7 @@
 
 <p align="center" dir="auto">I also have experience in the area of genetic improvement, agricultural biotechnology and in the Pharmaceutical Industry.</p>
 
-<p align="center" dir="auto"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn3.iconfinder.com%2Fdata%2Ficons%2Feducation-business-part-2%2F513%2F44-512.png&f=1&nofb=1&ipt=21b6749ea4ee77f25b7c066eadfab7059e5719f334786202cd6de0d144cb9802&ipo=images" width='130px' >
+<p align="center" dir="auto">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2Fgogreen-onemillion-1%2F512%2F16_medical_lab_laboratory_science_water_plant_tree_grow_flowers-512.png&f=1&nofb=1&ipt=119d74359d7de1896d1fb0ef747d70e966797fd048fa69f0c69bb4e6840f92f7&ipo=images" width='150px' >
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.vexels.com%2Fmedia%2Fusers%2F3%2F128861%2Fisolated%2Fpreview%2Fbeeb0c08058cfaff3ceb3fa5cd56d485-icono-de-medicina-de-capsula-de-tableta.png&f=1&nofb=1&ipt=26ad221009dcd1a5a28175f4e30b98d10dadce5badc509b0b059da71f8c78bb3&ipo=images" width='145px'></p>
 
@@ -60,7 +60,7 @@
 >These are the technologies and programming languages that I use in my day to day, both for data analysis, machine learning, software design and development, as well as version control of my repositories.
 
 <p align="center" dir="auto">
-<img align="center" src="https://skills.thijs.gg/icons?i=js,py,dart,java,r,html,css,flutter,spring,eclipse,androidstudio,vscode,figma,maven,idea,mysql,git,github&perline=9" />
+<img align="center" src="https://skillicons.dev/icons?i=js,java,spring,dart,flutter,py,html,css,docker,figma,androidstudio,eclipse,sublime,firebase,mysql,git,gitlab,vscode" />
 </p>
 
 ## View my certifications
